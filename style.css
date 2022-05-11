@@ -1,0 +1,53 @@
+
+.landing-page{
+    background-image:linear-gradient(0deg,rgba(0, 0, 0, 0.55),rgba(0, 0, 0, 0.7)), url(https://doob.rainbowit.net/images/bg/bg-image-3.jpg);
+
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+ #purchase {
+    padding: 0 25px;
+    border-style: initial;
+    border-width: 2px;
+    border-color: pink  !important;
+    border-radius: 8px;
+     background:linear-gradient(
+        95deg 
+        #059dff 15%
+        #6549d5 45%
+        #e33fa1 75%
+        #fb5343 100%
+    ); 
+
+     
+} */
+
+.navbar{
+    background-color:black;
+    text-align:right;
+    border: width 25px;
+
+}
+
+h1{
+    text-align: "bl";
+    text-size-adjust: 40px;
+}
+h2{
+    text-size-adjust: 100px;
+}
+.container{
+background-color: black;
+}
+
+
